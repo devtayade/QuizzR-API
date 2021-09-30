@@ -3782,6 +3782,17 @@
 	"d": "Germany",
 	"answer": "A"	
 
+	},
+        {
+	 "id": 383,
+	"difficulty": 1,
+	"question": " How many days do we have in a week? ",
+	"a": "7",
+	"b": "2",
+	"c": "0",
+	"d": "6",
+	"answer": "A"	
+
 	}
 
 ]
